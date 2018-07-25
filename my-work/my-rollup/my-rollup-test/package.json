@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "rollup -c -w"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "react": "^16.4.1",
+    "rollup-plugin-babel": "^3.0.7",
+    "the-answer": "^1.0.0"
+  },
+  "devDependencies": {
+    "rollup": "^0.62.0",
+    "rollup-plugin-commonjs": "^9.1.3",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}

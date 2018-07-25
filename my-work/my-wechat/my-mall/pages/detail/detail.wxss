@@ -1,0 +1,7 @@
+/* pages/datail/detail.wxss */
+.video-container{
+  width:750rpx;
+}
+.video{
+  width: 750rpx;
+}

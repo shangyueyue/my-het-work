@@ -1,0 +1,24 @@
+/* pages/cart/cart.wxss */
+.cart-container{
+  text-align: center;
+  margin-top:320rpx;
+}
+.cart-img{
+  width:160rpx;
+  height:160rpx;
+}
+.cart-tip{
+   text-align:center;
+   font-size:28rpx;
+}
+.cart-btn{
+  color:#fff;
+  background:#e64340;
+  border-radius:6px;
+  width:300rpx;
+  height:70rpx;
+  line-height:70rpx;
+  text-align:center;
+  font-size:28rpx;
+  margin:28rpx auto;
+}

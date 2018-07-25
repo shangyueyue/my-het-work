@@ -1,0 +1,57 @@
+/* pages/index/index.wxss */
+.banner{
+  width:750rpx;
+  height: 300rpx;
+}
+.slide-image{
+  width:750rpx;
+  height: 300rpx;
+}
+.scroll-container{
+  white-space: nowrap;
+}
+.scroll-item{
+  height: 80rpx; 
+  width:80rpx;
+  margin:0 40rpx;
+  line-height: 80rpx;
+  display: inline-block;
+  text-align: center;
+  font-size: 28rpx;
+  border-bottom: 4rpx solid transparent;
+}
+.scroll-item-active{
+  border-bottom: 4rpx solid #e4393c;
+}
+
+.goods-container{
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding:0 24rpx 24rpx 24rpx;
+  background: #eee;
+}
+.good-item{
+  width:339rpx;
+  margin-top: 24rpx;
+}
+.good-img{
+  width:339rpx;
+  height:339rpx;
+}
+.good-name{
+  font-size: 28rpx;
+  line-height: 36rpx;
+}
+.good-price{
+  font-size: 28rpx;
+}
+.price-cur{
+    color:red;
+}
+.price-pre{
+    padding-left: 48rpx;
+    color:#888;
+    text-decoration: line-through;
+    line-height: 48rpx;
+}

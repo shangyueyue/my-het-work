@@ -1,0 +1,8 @@
+2018/07/11 11:16:50 [emerg] 7804#5084: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/07/11 11:17:39 [notice] 4088#7988: signal process started
+2018/07/11 11:17:39 [error] 4088#7988: CreateFile() "E:\my-work\my-nginx\nginx-1.15.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2018/07/11 11:18:39 [notice] 11032#5108: signal process started
+2018/07/11 11:18:39 [error] 11032#5108: invalid PID number "" in "E:\my-work\my-nginx\nginx-1.15.1/logs/nginx.pid"
+2018/07/11 11:20:22 [notice] 11984#11296: signal process started
+2018/07/11 11:21:12 [error] 6084#4676: *3 CreateFile() "E:\my-work\my-nginx\pakistan/v1/web/dawlance/common/admin/loginCheck" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /v1/web/dawlance/common/admin/loginCheck? HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2018/07/11 11:24:05 [notice] 12560#12564: signal process started

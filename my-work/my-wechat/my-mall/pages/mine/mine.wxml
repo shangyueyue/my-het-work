@@ -1,0 +1,12 @@
+<view>
+  <view class="login" bindtap='handleLogin'>登录</view>
+  <view class="login" bindtap='handleAuth'>授权</view>
+  <view>
+      <button 
+        wx:if="{{canIUse}}" 
+        open-type="getUserInfo" 
+        bindgetuserinfo="bindGetUserInfo"
+      >授权登录</button>
+      <view wx:else>请升级微信版本</view>
+  </view>
+</view>

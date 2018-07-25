@@ -1,0 +1,4 @@
+<!--pages/datail/detail.wxml-->
+<view class="video-container">
+  <!-- <video id="myVideo" src="{{videoUrl}}" autoplay="{{true}}" loop='{{true}}' class='video' ></video> -->
+</view>
